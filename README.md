@@ -1,5 +1,5 @@
 # Extract-Verbs-in-Mandarin-Passives-and-Causatives
 
-* Extracted verbs from two structural representations of Mandarin passive and causative constructions using NLTK and SpaCy.
+* Identified, parsed, and extracted verbs from Mandarin passive and causative constructions using NLTK Context Free Grammar and SpaCy Dependency Parser.
 
-* Compared to NLTK tree representations, SpaCy's dependency parser makes it easier to extract verbs from Mandarin passives and causatives.
+* Compared to NLTK phrase structure representations, SpaCy's dependency parser makes it easier to identify and extract verbs from Mandarin passives and causatives.
